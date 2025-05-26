@@ -1,0 +1,13 @@
+Blood Group Detection
+
+For running the project
+
+1. Extract the code file
+2. Change the path for model in app.py
+3. Run the following commands
+	pip install -r requirements.txt
+	streamlit run App.py
+4. Use the different model (.pkl) to test
+5. Use the sample test images from sample folder
+
+	
